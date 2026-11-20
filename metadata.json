@@ -1,0 +1,6 @@
+{
+  "name": "PYQ Battle — Exam Arena",
+  "description": "Compete and learn with 10 years of JEE, NEET, WBJEE, GATE, UPSC, AFCAT, IISER, and ICAR previous-year questions in English, Bengali, and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
